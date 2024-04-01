@@ -8,6 +8,6 @@ Folder TCP Chat is Client.
 
 Mở project lên cả 2 folder
 
-Start TCP Chat_Server ( chuột phải -> debug -> start new instance )
-Start TCpChat ( chuột phải -> debug -> start new instance )
-phải satrt cùng lúc thì mới kết nôi được.
+Start TCP Chat_Server ( chuột phải -> debug -> start new instance ).
+Start TCpChat ( chuột phải -> debug -> start new instance ).
+phải start cùng lúc thì mới kết nối được.
